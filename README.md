@@ -2,4 +2,4 @@
 ## Steps for submitting homework
 
 - Create `linux_tasks` private `repo` and add me as a collaborator
-- Upload each homework in a new directory with the name of a task file
+- Upload each homework in a new branch with the name of a task file
